@@ -4,9 +4,7 @@
 	box-sizing: border-box;
 	color: #6c6b6b;
 }
-a {
-	text-decoration: none;
-}
+
 
 .clearfix:after {
 	content: "";
@@ -22,3 +20,34 @@ header {
 	background-position: bottom;
 }
 
+header .headline {
+	margin: 0 auto;
+	padding: 20px;
+
+}
+
+.main {
+	width: 60%;
+	margin:50px auto;
+
+}
+
+.box1 {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #848282
+}
+
+.box2 {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #848282
+}
+
+.box3 {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #848282
+}
+
+.box4 {
+	padding-bottom: 30px;
+	border-bottom: 1px solid #848282
+}
