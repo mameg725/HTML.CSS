@@ -28,26 +28,26 @@ header .headline {
 
 .main {
 	width: 60%;
-	margin:50px auto;
+	margin:20px auto;
 
 }
 
 .box1 {
-	padding-bottom: 30px;
+	padding: 30px;
 	border-bottom: 1px solid #848282
 }
 
 .box2 {
-	padding-bottom: 30px;
+	padding: 30px;
 	border-bottom: 1px solid #848282
 }
 
 .box3 {
-	padding-bottom: 30px;
+	padding: 30px;
 	border-bottom: 1px solid #848282
 }
 
 .box4 {
-	padding-bottom: 30px;
+	padding: 30px;
 	border-bottom: 1px solid #848282
 }
