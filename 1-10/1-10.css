@@ -78,3 +78,44 @@ h1 {
 	width: 280px;
 	margin: 0 10px 10px 10px;
 }
+
+
+
+@media screen and (max-width: 768px){
+	.main {
+		width: 90%;
+		margin: 50px auto;
+	}
+	.box1 {
+		width: 90%;
+	}
+	.box2 {
+		width: 90%;
+		margin: 20px 0;
+	}
+
+	.box3 {
+		width: 90%;
+	}
+
+	.step1-image{
+		width: 90%;
+		height: 90%
+		background-size: cover;
+	}
+	.step2-image{
+		width: 90%;
+		height: 90%
+		background-size: cover;
+	}
+	.step3-image{
+		width: 90%;
+		height: 90%
+		background-size: cover;
+	}
+
+	.text-box {
+		width: 90%;
+	}
+}
+
